@@ -1,4 +1,4 @@
-# Vision-Based-SLAM-and-Intelligent-Path-Planning-using-RRT-
+# Vision-Based-SLAM-and-Intelligent-Path-Planning-using-RRT-star
 A compact autonomous robot using Raspberry Pi integrates SLAM, YOLOv5 for real-time human detection, and RRT* for optimal path planning. It maps surroundings, detects a person as a goal, and navigates safely. Built in Python, it's lightweight and ideal for rescue, assistance, and indoor navigation.
 
 This project focuses on the development of a vision-based autonomous robotic system capable of real-time human detection and intelligent path planning in unstructured environments. The system is designed to operate fully on a compact embedded platform — the Raspberry Pi — making it portable, cost-effective, and free from reliance on external microcontrollers or middleware.
